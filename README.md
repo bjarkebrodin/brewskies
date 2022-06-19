@@ -1,4 +1,7 @@
-# Brodin Brewskies
+
+# Brewskies
+
+My collection of brew formulae
 
 ## How do I install these formulae?
 
