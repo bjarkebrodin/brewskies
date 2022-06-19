@@ -1,8 +1,8 @@
 class Meow < Formula
   desc "A submission/utility client for the kattis online judging system"
   homepage "https://github.com/bjarkebrodin/meow"
-  url "https://github.com/bjarkebrodin/meow/archive/refs/tags/v0.0.0.tar.gz"
-  sha256 "ca7e61eb11164985b23d9a5454a04e2171551742338e6c2536ff898bf024f903"
+  url "https://github.com/bjarkebrodin/meow/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "5e6bce75655332b50027bb36f6f4b6ce53654c7c19346a670aabe675f2bd04e2"
   license "MIT"
 
   def install
