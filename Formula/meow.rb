@@ -7,8 +7,7 @@ class Meow < Formula
 
   def install
     system "mkdir", "#{prefix}/bin/"
-    system "install", "-m", "+rx", "./*.py", "#{prefix}/bin/"
-    system "install", "-m", "+rx", "./meow", "#{prefix}/bin/"
+    system "install", "-m", "+rx", "./meow" "./main.py", "./config_kattis.py", "./config_meow.py", "./header.py", "./kattis_client.py", "./new.py", "./submit.py", "./nix_utils.py", "./config_meow_default.py", "#{prefix}/bin/"
   end
 
   test do
