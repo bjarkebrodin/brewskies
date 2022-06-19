@@ -1,4 +1,4 @@
-# Bjarkebrodin Brewskies
+# Brodin Brewskies
 
 ## How do I install these formulae?
 
