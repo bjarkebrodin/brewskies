@@ -6,9 +6,8 @@ class Upload < Formula
   license "MIT"
 
   def install
-
     system "mkdir", "-p", "#{prefix}/bin"
-    system "install", "-m", "+rx", "upload", "#{prefix}/bin/"
+    system "install", "-m", "+rx", "main", "#{prefix}/bin/"
   end
 
   test do
